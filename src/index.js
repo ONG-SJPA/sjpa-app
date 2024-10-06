@@ -1,5 +1,5 @@
 import { registerRootComponent} from 'expo'
-import Hello from './Screens/home'
+import App from './Screens/drawer'
 
 
-registerRootComponent(Hello)
+registerRootComponent(App)
